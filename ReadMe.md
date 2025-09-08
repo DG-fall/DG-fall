@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur et Administrateur Système Junior passionné avec plus de 2 ans d'expérience en développement web (HTML, CSS, JavaScript, PHP, Python, React, Flutter) et administration des systèmes (Linux, Windows, réseaux, sécurité). Je conçois des interfaces utilisateurs intuitives, optimise les infrastructures informatiques, et apporte un support technique efficace. Toujours en apprentissage, je m'intéresse aux méthodologies Agile, à l'intégration d'APIs, et aux outils d'intelligence artificielle pour améliorer mes projets. Disponible pour collaborer sur des projets innovants et contribuer à la transformation digitale.
+Développeur et Administrateur Système Junior passionné avec plus de 3 ans d'expérience en développement web (HTML, CSS, JavaScript, PHP, Python, React, Flutter) et administration des systèmes (Linux, Windows, réseaux, sécurité). Je conçois des interfaces utilisateurs intuitives, optimise les infrastructures informatiques, et apporte un support technique efficace. Toujours en apprentissage, je m'intéresse aux méthodologies Agile, à l'intégration d'APIs, et aux outils d'intelligence artificielle pour améliorer mes projets. Disponible pour collaborer sur des projets innovants et contribuer à la transformation digitale.
 
 
 ## 🌐 Socials:
